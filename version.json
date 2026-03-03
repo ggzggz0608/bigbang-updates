@@ -1,1 +1,10 @@
+{
+  "version": "3.0",
+  "update_notes": "首次发布版本",
+  "download_url": "你的Google Drive下载链接"
+}
+```
 
+**记下你的 version.json 链接，格式是：**
+```
+https://raw.githubusercontent.com/你的用户名/bigbang-updates/main/version.json
